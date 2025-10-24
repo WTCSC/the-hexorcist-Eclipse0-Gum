@@ -15,8 +15,8 @@ The **Hexorcist** is an interactive program where users can be told if they're f
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/WTCSC/the-overly-verbose-gpa-calculator-Eclipse0-Gum.git
-   cd the-meh-thematical-calculator-Eclipse0-Gum
+   git clone https://github.com/WTCSC/the-hexorcist-Eclipse0-Gum.git
+   cd the-hexorcist-Eclipse0-Gum
 
 
 
